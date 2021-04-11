@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(66, 66, 66);
+    height: 70px;
+    text-align: center;
+}
+
+.options {
+    overflow: hidden;
+}
+
+.menu1 {
+    background-color: rgb(173, 173, 173);
+    width: 20%;
+    height: 150px;
+    float: left;
+}
+
+.menu2 {
+    background-color: rgb(70, 226, 247);
+    width: 20%;
+    height: 150px;
+    float: left;
+}
+
+.menu3 {
+    background-color: rgb(155, 155, 155);
+    width: 20%;
+    height: 150px;
+    float: left;
+}
+
+.menu4 {
+    background-color: rgb(86, 235, 255);
+    width: 20%;
+    height: 150px;
+    float: left;
+}
+
+.menu5 {
+    background-color: rgb(155, 155, 155);
+    width: 20%;
+    height: 150px;
+    float: right;
+}
+
+.articleContent {
+    overflow: hidden;
+}
+
+.article1 {
+    background-color: rgb(182, 146, 122);
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+
+.article2 {
+    background-color: rgb(190, 160, 95);
+    width: 50%;
+    height: 400px;
+    float: right;
+}
+
+.footer {
+    background-color: rgb(77, 77, 77);
+    width: 100%;
+    height: 80px;
+}
